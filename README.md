@@ -1,6 +1,6 @@
 # PhotoAlbum
 
-###Installation
+### Installation
 
 [1] npm install
 
